@@ -1,0 +1,22 @@
+.button {
+    font-size: 30px;
+    background:rgb(255, 255, 2);
+    
+    
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(241, 0, 0);
+    background: rgb(11, 235, 29);
+}
+
+#click{
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
